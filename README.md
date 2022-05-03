@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Fabricio Martinez de la Cruz</h1>
-**<h3 align="center">Full stack Developer</h3>**
+<h3 align="center">Full stack Developer</h3>
 
-- 🔭 I’m currently working on **project for agency**
 
 - escribeme a **leonpurple.2903@gmail.com**
 
