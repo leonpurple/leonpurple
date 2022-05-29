@@ -3,7 +3,7 @@
 
 <h5 align="left">Languages and Tools:</h5>
 
-<p> HTML5 - CSS3 - Javascritp - React - PHP - SQL - Bootstrap - Sass - Figma</p>
+HTML5 - CSS3 - Javascritp - PHP - SQL - Bootstrap - Sass - Figma
 
   
 <h5 align="left">Connect with me:</h5>
