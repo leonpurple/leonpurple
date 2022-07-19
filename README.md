@@ -4,4 +4,4 @@
 > Mongo | Express | React | Node
 
 
-[Linkedin](https://wwww.linkedin.com/in/leonpurple)
+[Linkedin](https://linkedin.com/in/leonpurple)
